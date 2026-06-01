@@ -1,0 +1,4 @@
+# Every file in this repo defines deployed agent behavior — changes to the
+# agent, skills, and MCP/plugin config are changes to production.
+
+*  @packfiles/ai

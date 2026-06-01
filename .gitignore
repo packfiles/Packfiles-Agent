@@ -1,0 +1,13 @@
+# Internal reference material
+*.pdf
+
+# Secrets and credentials — must never be committed
+.env
+.env.*
+*.pem
+*.key
+*.age
+vault.age
+
+# OS / editor cruft
+.DS_Store
